@@ -7,7 +7,11 @@ You'll want to create a private file in the same directory calle `APIKey.txt` co
 Note: This Version of the playground only supports read-only "get" calls.
 
 # Version 
-1.0
+1.1
+
+# Version History
+1.0 - Initial Release
+1.1 - Added support for notes and an NLTK Example
 
 # Date
 November 4, 2023
