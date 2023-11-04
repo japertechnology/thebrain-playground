@@ -10,8 +10,8 @@ Note: This Version of the playground only supports read-only "get" calls.
 1.1
 
 # Version History
-1.0 - Initial Release
-1.1 - Added support for notes and an NLTK Example
+* 1.0 - Initial Release
+* 1.1 - Added support for notes and an NLTK Example
 
 # Date
 November 4, 2023
